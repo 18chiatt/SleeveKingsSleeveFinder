@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sleeve King Sleeve Finder</string>
+    <string name="topDisplayText">Sleeve Kings Sleeve Finder</string>
+    <string name="searchPrompt">Search</string>
+    <string name="sleeveNamePrompt">Sleeve Type:</string>
+    <string name="countPrompt">Count:</string>
+    <string name="widthPrompt">Width:</string>
+    <string name="heightPrompt">Height:</string>
+    <string name="unableToFindMatchingSize">Unable To Find Matching Sleeve</string>
+    <string name="SKUHint">SKU:</string>
+    <string name="SleevesPerPack">Number of Sleeves Per Pack:</string>
+    <string name="credits">Credits</string>
+    <string name="thankMe">Developed by Chase H</string>
+</resources>
